@@ -6,11 +6,11 @@
 }
 
 body {
-  background: linear-gradient(
+ background: linear-gradient(
     108.39deg,
-    #8d8deb 5.16%,
-    #7e9fdd 45.55%,
-    #79e7e0 98.14%
+    #9595f7 5.16%,
+    #88acee 45.55%,
+    #84f7ef 98.14%
   );
   background-repeat: no-repeat;
   background-attachment: fixed;
