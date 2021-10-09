@@ -167,12 +167,6 @@ a.btn:hover {
   color: #5f5fad !important;
   font-weight: bolder;
   font-size: larger;
-  background: rgba(255, 255, 255, 0.15);
-  backdrop-filter: blur(200px);
-  border-radius: 10px;
-  box-shadow: -4px 0px 25px rgba(96, 96, 96, 0.05),
-    0px -4px 25px rgba(96, 96, 96, 0.05), 4px 0px 25px rgba(96, 96, 96, 0.05),
-    0px 4px 25px rgba(96, 96, 96, 0.05);
   margin-top: 10px !important;
   margin-bottom: 10px !important;
   padding-top: 30px;
